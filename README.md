@@ -7,5 +7,5 @@ Referrers which a developer need for development.
 
 ## Java Development
 
-### References
+### Java Knowledge
 1. [Baeldung](https://www.baeldung.com/) - https://www.baeldung.com/
