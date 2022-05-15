@@ -12,3 +12,4 @@ Referrers which a developer need for development.
 
 ### Java Knowledge
 1. [Baeldung](https://www.baeldung.com/) - https://www.baeldung.com/ (05/2022)
+2. Important Desgin Pattern in Spring Framework - https://www.baeldung.com/spring-framework-design-patterns (05/2022)
